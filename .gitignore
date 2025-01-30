@@ -1,0 +1,8 @@
+# Ignore compiled binaries
+*.o
+*.out
+*.exe
+db_engine
+
+# Ignore build directories
+build/
