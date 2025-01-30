@@ -1,0 +1,4 @@
+SupplierID,Name,Dept,PartNo,Location
+S001,Intel,23,456,San Jose
+S002,NVIDIA,18,789,Santa Clara
+S003,CircuitWorld,23,101,Singapore
